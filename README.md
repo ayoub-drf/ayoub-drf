@@ -17,5 +17,5 @@ I'm a Full Stack Developer with a strong focus on building modern web applicatio
 - Exploring new features in Django documentation & docker
 
 ## 📫 How to reach me:
-- Email: [ayoubx0x9@gmail.com(mailto:ayoubx0x9@gmail.com)
+- Email: [ayoubx0x9@gmail.com](mailto:ayoubx0x9@gmail.com)
 - LinkedIn: [Ayoub's LinkedIn](https://www.linkedin.com/in/ayoub-drf-38bab4320/)
