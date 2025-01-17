@@ -18,4 +18,4 @@ I'm a Full Stack Developer with a strong focus on building modern web applicatio
 
 ## 📫 How to reach me:
 - Email: [ayoubx0x9@gmail.com](mailto:ayoubx0x9@gmail.com)
-- LinkedIn: [Ayoub's LinkedIn](https://www.linkedin.com/in/ayoub-drf-38bab4320/)
+- LinkedIn: [Ayoub's LinkedIn](https://www.linkedin.com/in/ayoub-belghoul/)
