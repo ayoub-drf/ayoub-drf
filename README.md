@@ -14,7 +14,7 @@ I'm a Full Stack Developer with a strong focus on building modern web applicatio
 
 
 ## 🌱 I'm currently:
-- Exploring new features in Django documentation & docker
+- Exploring new features in channels documentation & docker
 
 ## 📫 How to reach me:
 - Email: [ayoubbelghoul90@gmail.com](mailto:ayoubx0x9@gmail.com)
