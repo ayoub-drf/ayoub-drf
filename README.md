@@ -17,5 +17,5 @@ I'm a Full Stack Developer with a strong focus on building modern web applicatio
 - Exploring new features in channels documentation & docker
 
 ## 📫 How to reach me:
-- Email: [ayoubbelghoul90@gmail.com](mailto:ayoubx0x9@gmail.com)
+- Email: [ayoubhost0@gmail.com](mailto:ayoubhost0@gmail.com)
 - LinkedIn: [Ayoub's LinkedIn](https://www.linkedin.com/in/ayoub-belghoul/)
